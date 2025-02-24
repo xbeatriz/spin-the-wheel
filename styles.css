@@ -34,7 +34,7 @@ h1 {
 }
 
 #spin {
-  font: 24px/1.2 "Montserrat", sans-serif;
+  font: 20px "Montserrat", sans-serif;
   user-select: none;
   cursor: pointer;
   display: flex;

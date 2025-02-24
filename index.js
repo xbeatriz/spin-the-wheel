@@ -57,7 +57,7 @@ function drawSector(sector, i) {
   ctx.rotate(ang + arc / 2);
   ctx.textAlign = "right";
   ctx.fillStyle = sector.text;
-  ctx.font = "bold 22px 'Montserrat', sans-serif";
+  ctx.font = "bold 20px 'Montserrat', sans-serif";
   ctx.fillText(sector.label, rad - 10, 10);
   //
 
