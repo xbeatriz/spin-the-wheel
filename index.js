@@ -208,6 +208,7 @@ editButton.addEventListener("click", () => {
     popup.style.borderRadius = "12px";
     popup.style.boxShadow = "0 5px 15px rgba(0, 0, 0, 0.3)";
     popup.style.textAlign = "center";
+    popup.style.fontFamily = "'Montserrat', sans-serif";
     popup.style.width = "350px";
     popup.innerHTML = "<h2 style='color: #19365F;'>Alterar Itens</h2>";
 
